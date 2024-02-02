@@ -123,6 +123,10 @@ Voici la liste des différents fichiers proposés dans XENIX-0 :
 			<td>Cette commande permet de générer un nombre aléatoire.</td>
 		</tr>
 		<tr>
+			<td><b>RMUSER.PAS</b></td>
+			<td>Cette commande permet de supprimer un utilisateur du système. Cette commande est inspiré de la commande du système d'exploitation XENIX.</td>
+		</tr>
+		<tr>
 			<td><b>SH.PAS</b></td>
 			<td>Cette commande permet de lancer l'interpréteur de commande par défaut.</td>
 		</tr>
