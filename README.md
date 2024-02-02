@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans XENIX-0 :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>AWK.PAS</b></td>
+			<td>Cette commande permet de lancer le langage de programmation AWK.</td>
+		</tr>
+		<tr>
 			<td><b>BANNER.PAS</b></td>
 			<td>Cette commande permet d'afficher une bannière.</td>
 		</tr>  
