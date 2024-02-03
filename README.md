@@ -35,6 +35,10 @@ Voici la liste des différents fichiers proposés dans XENIX-0 :
 			<td>Cette commande permet de changer le mode des fichiers.</td>
 		</tr>  
 		<tr>
+			<td><b>CHSH.PAS</b></td>
+			<td>Cette commande permet de changer l'interpréteur de commande par défaut.</td>
+		</tr>	
+		<tr>
 			<td><b>CP.PAS</b></td>
 			<td>Cette commande permet de copier un fichier.</td>
 		</tr>  
